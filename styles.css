@@ -14,7 +14,7 @@ html, body {
 /*Header style*/
 
 #header {
-  background-image: url(images/background.jpg);
+  background-image: url(background.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   margin: 0;
@@ -279,7 +279,7 @@ form input, form textarea {
 footer{
   text-align: center;
   font-family: var(--txt-font);
-  background-image: url(images/background.jpg);
+  background-image: url(background.jpg);
   color: var(--txt-color);
   padding: 1%;
 }
